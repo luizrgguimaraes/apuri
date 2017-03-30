@@ -9,7 +9,7 @@ int main(void){
     double salario = vl_salariofixo + vl_vendas*0.15;
     printf("TOTAL = R$ %.2f\n",salario);
 
-
+//teste 2
     /*int cd_funcionario;
     double n_horastrabalhadas, vl_hora;
     scanf("%d %lf %lf",&cd_funcionario,&n_horastrabalhadas,&vl_hora);
